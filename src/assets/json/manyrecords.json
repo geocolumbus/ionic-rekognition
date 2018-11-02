@@ -1,0 +1,13 @@
+{
+  "searchRetrieveResponse": {
+    "$": {
+      "xmlns": "http://www.loc.gov/zing/srw/",
+      "xmlns:oclcterms": "http://purl.org/oclc/terms/",
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:diag": "http://www.loc.gov/zing/srw/diagnostic/",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    },
+    "version": "1.1",
+    "numberOfRecords": "2",
+    "records": {
+      "record": [

@@ -1,0 +1,329 @@
+{
+  "searchRetrieveResponse": {
+    "$": {
+      "xmlns": "http://www.loc.gov/zing/srw/",
+      "xmlns:oclcterms": "http://purl.org/oclc/terms/",
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:diag": "http://www.loc.gov/zing/srw/diagnostic/",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    },
+    "version": "1.1",
+    "numberOfRecords": "1",
+    "records": {
+      "record": {
+        "recordSchema": "marcxml",
+        "recordPacking": "xml",
+        "recordData": {
+          "record": {
+            "$": {
+              "xmlns": "http://www.loc.gov/MARC21/slim"
+            },
+            "leader": "00000cam a2200000Mi 4500",
+            "controlfield": [
+              {
+                "_": "933423994",
+                "$": {
+                  "tag": "001"
+                }
+              },
+              {
+                "_": "151019s2015    cc a          000 0 eng d",
+                "$": {
+                  "tag": "008"
+                }
+              }
+            ],
+            "datafield": [
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": " ",
+                  "tag": "020"
+                },
+                "subfield": [
+                  {
+                    "_": "9781491906187",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "(paperback)",
+                    "$": {
+                      "code": "q"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": " ",
+                  "tag": "020"
+                },
+                "subfield": [
+                  {
+                    "_": "1491906189",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "(paperback)",
+                    "$": {
+                      "code": "q"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": "1",
+                  "ind2": " ",
+                  "tag": "100"
+                },
+                "subfield": [
+                  {
+                    "_": "Parsian, Mahmoud.",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "aut",
+                    "$": {
+                      "code": "4"
+                    }
+                  },
+                  {
+                    "_": "(NL-LeOCL)397284098",
+                    "$": {
+                      "code": "0"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": "1",
+                  "ind2": "0",
+                  "tag": "245"
+                },
+                "subfield": [
+                  {
+                    "_": "Data algorithms /",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "Mahmoud Parsian ; editors: Ann Spencer and Marie Beaugureau ; indexer: Judith McConville ; illustrator: Rebecca Demarest.",
+                    "$": {
+                      "code": "c"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": " ",
+                  "tag": "250"
+                },
+                "subfield": {
+                  "_": "First edition.",
+                  "$": {
+                    "code": "a"
+                  }
+                }
+              },
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": "1",
+                  "tag": "264"
+                },
+                "subfield": [
+                  {
+                    "_": "Beijing :",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "O'Reilly,",
+                    "$": {
+                      "code": "b"
+                    }
+                  },
+                  {
+                    "_": "July 2015.",
+                    "$": {
+                      "code": "c"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": " ",
+                  "tag": "300"
+                },
+                "subfield": [
+                  {
+                    "_": "XXXVII, 737 pagina's :",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "illustraties ;",
+                    "$": {
+                      "code": "b"
+                    }
+                  },
+                  {
+                    "_": "24 cm",
+                    "$": {
+                      "code": "c"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": " ",
+                  "ind2": " ",
+                  "tag": "500"
+                },
+                "subfield": {
+                  "_": "Ondertitel op omslag: recipes for scaling up with Hadoop and Spark.",
+                  "$": {
+                    "code": "a"
+                  }
+                }
+              },
+              {
+                "$": {
+                  "ind1": "2",
+                  "ind2": " ",
+                  "tag": "520"
+                },
+                "subfield": [
+                  {
+                    "_": "Handboek voor het ontwerpen van algoritmen voor grote datasets.",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "NL-ZmNBD.",
+                    "$": {
+                      "code": "c"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": "1",
+                  "ind2": " ",
+                  "tag": "700"
+                },
+                "subfield": [
+                  {
+                    "_": "Spencer, Ann.",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "edt",
+                    "$": {
+                      "code": "4"
+                    }
+                  },
+                  {
+                    "_": "(NL-LeOCL)385974604",
+                    "$": {
+                      "code": "0"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": "1",
+                  "ind2": " ",
+                  "tag": "700"
+                },
+                "subfield": [
+                  {
+                    "_": "McConville, Judy.",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "ctb",
+                    "$": {
+                      "code": "4"
+                    }
+                  },
+                  {
+                    "_": "(NL-LeOCL)392189402",
+                    "$": {
+                      "code": "0"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "ind1": "1",
+                  "ind2": " ",
+                  "tag": "700"
+                },
+                "subfield": [
+                  {
+                    "_": "Demarest, Rebecca.",
+                    "$": {
+                      "code": "a"
+                    }
+                  },
+                  {
+                    "_": "ill",
+                    "$": {
+                      "code": "4"
+                    }
+                  },
+                  {
+                    "_": "(NL-LeOCL)393352072",
+                    "$": {
+                      "code": "0"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "nextRecordPosition": "",
+    "resultSetIdleTime": "",
+    "echoedSearchRetrieveRequest": {
+      "$": {
+        "xmlns:srw": "http://www.loc.gov/zing/srw/"
+      },
+      "version": "1.1",
+      "query": "srw.kw all \"OREILLY Data Algorithms RECIPES FOR SCALING UP WITH HADOOP AND SPARK Mahmoud Parsian \" and srw.mt=bks",
+      "maximumRecords": "10",
+      "recordPacking": "xml",
+      "startRecord": "1",
+      "sortKeys": "relevance",
+      "wskey": "aCcndeDMjFO9vszkDrB6WJg1UnyTnkn8lLupLKygr0U1KJZoeAittuVjGRywCDdrsxahv2bsjgKq6hLM"
+    }
+  }
+}

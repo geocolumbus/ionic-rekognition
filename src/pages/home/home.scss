@@ -1,0 +1,25 @@
+page-home {
+  .block {
+    position: relative;
+    .deleteIcon {
+      position: absolute !important;
+      color: #ffffff !important;
+      margin-left: 80% !important;
+    }
+    .deleteIcon:before {
+      font-size: 30px !important;
+    }
+  }
+
+  .photo-text {
+    font-size: large;
+    padding-top: 0.5em;
+  }
+
+  .photo-img {
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+  }
+
+}

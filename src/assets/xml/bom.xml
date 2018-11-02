@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='/webservices/catalog/xsl/searchRetrieveResponse.xsl'?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+                        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <version>1.1</version>
+    <numberOfRecords>1</numberOfRecords>
+    <records>
+        <record>
+            <recordSchema>marcxml</recordSchema>
+            <recordPacking>xml</recordPacking>
+            <recordData>
+                <record xmlns="http://www.loc.gov/MARC21/slim">
+                    <leader>00000cam a2200000 i 4500</leader>
+                    <controlfield tag="001">986966542</controlfield>
+                    <controlfield tag="008">170907s2018 nyu 000 0 eng</controlfield>
+                    <datafield ind1=" " ind2=" " tag="010">
+                        <subfield code="a">2017031587</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="020">
+                        <subfield code="a">9781478970903</subfield>
+                        <subfield code="q">(hardback)</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="020">
+                        <subfield code="a">1478970901</subfield>
+                        <subfield code="q">(hardback)</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="020">
+                        <subfield code="z">9781478970927</subfield>
+                        <subfield code="q">(audio downloadable)</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="020">
+                        <subfield code="z">9781478970934</subfield>
+                        <subfield code="q">(ebook)</subfield>
+                    </datafield>
+                    <datafield ind1="1" ind2=" " tag="100">
+                        <subfield code="a">Prichard, Skip,</subfield>
+                        <subfield code="e">author.</subfield>
+                    </datafield>
+                    <datafield ind1="1" ind2="4" tag="245">
+                        <subfield code="a">The book of mistakes :</subfield>
+                        <subfield code="b">9 secrets to creating a successful future /</subfield>
+                        <subfield code="c">Skip Prichard.</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="250">
+                        <subfield code="a">First edition.</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="1" tag="264">
+                        <subfield code="a">New York :</subfield>
+                        <subfield code="b">Center Street,</subfield>
+                        <subfield code="c">2018.</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="300">
+                        <subfield code="a">xii, 178 pages ;</subfield>
+                        <subfield code="c">22 cm</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2=" " tag="520">
+                        <subfield code="a">"Have you ever wondered why some people seem to catch all the breaks and win over and over again? What do the super
+                            successful know? What is standing between you and your wildest dreams? The Book of Mistakes will take you on an inspiring journey,
+                            following an ancient manuscript with powerful lessons that will transform your life. You'll meet David, a young man who with each
+                            passing day is more disheartened and stressed. Despite a decent job, apartment, and friends, he just feels hollow, until one day he
+                            meets a mysterious young woman and everything starts to change. In this self-help tale wrapped in fiction, you'll learn the nine
+                            mistakes that prevent many from achieving their goals. You'll learn how to overcome these hurdles and reinvent your life. This
+                            success parable is packed with wisdom that will help you discover and follow your personal purpose, push beyond your perceived
+                            capabilities, and achieve more than you ever dreamed possible. You'll find yourself returning again and again to a deceptively
+                            simple story that teaches actionable insights and enduring truths"--
+                        </subfield>
+                        <subfield code="c">Provided by publisher.</subfield>
+                    </datafield>
+                    <datafield ind1="0" ind2=" " tag="505">
+                        <subfield code="a">Prologue -- David -- The beginning -- Aria -- The first law -- The second law -- The third law -- Epilogue -- The 9
+                            secrets to creating a successful future.
+                        </subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="0" tag="650">
+                        <subfield code="a">Self-actualization (Psychology)</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="0" tag="650">
+                        <subfield code="a">Motivation (Psychology)</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="0" tag="650">
+                        <subfield code="a">Success.</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="1" tag="650">
+                        <subfield code="a">Self-realization.</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="650">
+                        <subfield code="a">SELF-HELP</subfield>
+                        <subfield code="x">Personal Growth</subfield>
+                        <subfield code="x">Success.</subfield>
+                        <subfield code="2">bisacsh</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="650">
+                        <subfield code="a">SELF-HELP</subfield>
+                        <subfield code="x">Motivational &amp; Inspirational.</subfield>
+                        <subfield code="2">bisacsh</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="650">
+                        <subfield code="a">Motivation (Psychology)</subfield>
+                        <subfield code="2">fast</subfield>
+                        <subfield code="0">(OCoLC)fst01027516</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="650">
+                        <subfield code="a">Self-actualization (Psychology)</subfield>
+                        <subfield code="2">fast</subfield>
+                        <subfield code="0">(OCoLC)fst01111481</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="650">
+                        <subfield code="a">Success.</subfield>
+                        <subfield code="2">fast</subfield>
+                        <subfield code="0">(OCoLC)fst01137041</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="655">
+                        <subfield code="a">Self-help publications.</subfield>
+                        <subfield code="2">fast</subfield>
+                        <subfield code="0">(OCoLC)fst01941328</subfield>
+                    </datafield>
+                    <datafield ind1=" " ind2="7" tag="655">
+                        <subfield code="a">Self-help publications.</subfield>
+                        <subfield code="2">lcgft</subfield>
+                    </datafield>
+                </record>
+            </recordData>
+        </record>
+    </records>
+    <nextRecordPosition/>
+    <resultSetIdleTime/>
+    <echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+        <version>1.1</version>
+        <query>srw.kw all "The BOOK of MISTAKES 9 SECRETS TO CREATING A SUCCESSFUL FUTURE SKIP PRICHARD " and srw.mt=bks</query>
+        <maximumRecords>10</maximumRecords>
+        <recordPacking>xml</recordPacking>
+        <startRecord>1</startRecord>
+        <sortKeys>relevance</sortKeys>
+        <wskey>aCcndeDMjFO9vszkDrB6WJg1UnyTnkn8lLupLKygr0U1KJZoeAittuVjGRywCDdrsxahv2bsjgKq6hLM</wskey>
+    </echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
