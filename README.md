@@ -13,7 +13,7 @@
 This is a an ionic-angular app.
 
 ```
-git clone 
+git clone https://github.com/geocolumbus/ionic-rekognition.git
 cd ionic-rekognition
 npm install
 ionic cordova build ios
